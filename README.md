@@ -174,4 +174,3 @@ deactivate
 ---
 
 **Issues?** Check the troubleshooting table above. For Gemini API keys, visit aistudio.google.com.
-
