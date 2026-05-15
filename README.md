@@ -21,6 +21,10 @@ AI-powered Resume Analyzer built with Streamlit for MCW HITEC University (AI Pro
 - **NEW**: Better error messages with solutions
 - **NEW**: Model selection dropdown with working models only
  - **NEW**: App locked to Gemini `gemini-2.5-flash` for consistent behavior
+## Team
+- Muhammad Ali Saqib
+- Fatima Qureshi
+- Aima Aqeel
 
 ## Project Files
 
